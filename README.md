@@ -81,9 +81,7 @@ Published in Springer — Applied Computer Sciences in Engineering
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brayan-Zamora&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Zamora&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brayan-Zamora&theme=github_dark" />
 </p>
 
 ---
