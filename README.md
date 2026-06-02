@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 Systems Engineer (waiting for degree)
-- 💻 Passionate about **Web Development**, **Artificial Intelligence** and **Cybersecurity**
+- 💻 Passionate about **Web Development**, **Artificial Intelligence**
 - ⚡ Experience building modern web applications with **Next.js**, **React**, **TypeScript**, and **Prisma ORM**
 - 🧠 Interested in **Machine Learning**, **Computer Vision**, and **Deep Learning**
 - 📍 Cali, Colombia
